@@ -1,0 +1,30 @@
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe.config
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.pdb
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csprojAssemblyReference.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.Form1.resources
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.Properties.Resources.resources
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.GenerateResource.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin_2periodo\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.pdb
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe.config
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.pdb
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csprojAssemblyReference.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.form1.resources
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.Properties.Resources.resources
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.GenerateResource.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\2SIAN\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.pdb
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe.config
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\bin\Debug\Prova_Martin_2periodo.pdb
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csprojAssemblyReference.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.form1.resources
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.Properties.Resources.resources
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.GenerateResource.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.csproj.CoreCompileInputs.cache
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.exe
+C:\Users\Estudio02\Desktop\em preogresso C#\Prova_Martin\Prova_Martin_2periodo\obj\Debug\Prova_Martin_2periodo.pdb
